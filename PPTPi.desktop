@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=PPTPi
+Comment=Ornder fuer Physik Projekt Tage
+Exec=/usr/bin/pcmanfm /home/pi/PPTPi/
+Encoding=UTF-8
+icon=system-file-manager
+Type=Application
+Terminal=false
+Categories=FileSystem;
+Comment[en_GB]=Ordner fuer Physik Projekt Tage
+StartupNotify=false
