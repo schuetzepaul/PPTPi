@@ -4,7 +4,7 @@
 sudo apt-get update && sudo apt-get upgrade -y
 
 #install scipy and its dependencies
-sudo apt-get install python-scipy libatlas-base-dev -y
+sudo apt-get install emacs libxml2-dev libxslt1-dev python3-scipy libatlas-base-dev -y
 
 #create python3 venv to be able to easily install jupyter 
 #and other packages used in the project
